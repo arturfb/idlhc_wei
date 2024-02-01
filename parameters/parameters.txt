@@ -1,0 +1,4 @@
+Budget of simulations: 3000
+Population size: 100
+Number of solutions chosen to update the probabilities at each iteration: 20
+Weights Z_1 and Z_2 were calibrated according to the paper
